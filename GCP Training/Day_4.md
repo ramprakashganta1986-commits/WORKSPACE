@@ -1,6 +1,7 @@
 ## Create a VM using console
   * You will be needing 2 email id's
-  * Create a IAM role with owner
+  * Create a IAM role with owner 
+  * IAM = Identity and Access Management
   * Create a IAM role with Browser/Viewer
   * Create a servicee account add roles as viewer
 
@@ -14,6 +15,8 @@
 
 ## VM specififcations
 => Enable required APIs
+  * Compute Engine
+  * Service Health 
 
   * Name
   * Region & Zone
